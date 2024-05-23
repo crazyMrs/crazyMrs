@@ -4,11 +4,27 @@
 - 🦒 Я студентка Школы 21 - образовательного проекта от Сбер для разработчиков.
 - 📚 Интересуюсь разработкой на Python, а также машинным обучением и наукой о данных.
 
-### Мои навыки:
-- 🐍 Python
-- 🔩 C/C++
-- ➡️ Git
-- 📑 SQL
+### Programming languages:
+![Python](https://img.shields.io/badge/-Python-1E7775?style=for-the-badge&logo=python&logoColor=2496ED)
+![C++](https://img.shields.io/badge/-C++-1E7775?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![C](https://img.shields.io/badge/-C-1E7775?style=for-the-badge&logo=C&logoColor=6296CC)
+  
+### Databases:
+![Postgres](https://img.shields.io/badge/-PostgreSQL-1E7775?style=for-the-badge&logo=PostgreSQL&logoColor=6296CC)
+
+### Tools:
+![Linux](https://img.shields.io/badge/-Linux-1E7775?style=for-the-badge&logo=linux&logoColor=FCC624) ![Bash](https://img.shields.io/badge/-Bash-1E7775?style=for-the-badge&logo=gnubash&logoColor=#000000)
+
+### Version control:
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/-Github-1E7775?style=for-the-badge&logo=github&logoColor=181717) ![Gitlab](https://img.shields.io/badge/-gitlab-1E7775?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
+
+### Devops tools
+![Docker](https://img.shields.io/badge/-docker-1E7775?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Docker](https://img.shields.io/badge/-ansible-1E7775?style=for-the-badge&logo=ansible&logoColor=2496ED)
+
+## IDEs/Editors:
+![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
 
 ____
 |[![crazyMrs Github stats](https://github-readme-stats.vercel.app/api?username=crazyMrs&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true&theme=dark)](https://github.com/crazyMrs?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crazyMrs&layout=compact&hide_border=true&hide=jupyter%20notebook,vue,javascript,css,html,roff,scss&theme=dark)](https://github.com/crazyMrs?tab=repositories) |
