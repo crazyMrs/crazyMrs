@@ -14,6 +14,8 @@
 
 ### Tools:
 ![Linux](https://img.shields.io/badge/-Linux-1E7775?style=for-the-badge&logo=linux&logoColor=FCC624) ![Bash](https://img.shields.io/badge/-Bash-1E7775?style=for-the-badge&logo=gnubash&logoColor=#000000)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![Make](https://img.shields.io/badge/Make-%23008FBA.svg?color=red&style=for-the-badge&logo=Make&logoColor=white)
 
 ### Version control:
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/-Github-1E7775?style=for-the-badge&logo=github&logoColor=181717) ![Gitlab](https://img.shields.io/badge/-gitlab-1E7775?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
@@ -24,6 +26,7 @@
 
 ## IDEs/Editors:
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 
 ____
