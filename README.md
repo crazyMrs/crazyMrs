@@ -4,6 +4,8 @@
 - 🦒 Я студентка Школы 21 - образовательного проекта от Сбер для разработчиков.
 - 📚 Интересуюсь разработкой на Python, а также машинным обучением и наукой о данных.
 
+<h3><a href="https://drive.google.com/file/d/1z9wzlikrrRZIFjP4Y_frrwmsq53SSudS/view?usp=sharing"target="_blank">Мое резюме (RU)</a></h3><br>
+
 ### Programming languages:
 ![Python](https://img.shields.io/badge/-Python-1E7775?style=for-the-badge&logo=python&logoColor=2496ED)
 ![C++](https://img.shields.io/badge/-C++-1E7775?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
