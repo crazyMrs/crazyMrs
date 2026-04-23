@@ -1,66 +1,70 @@
-# 🙋 Привет, я Яковлева Александра или @jeffreyl - Python Developer
+# 👋 Привет, я Александра Яковлева (@crazyMrs)
 
-### ⚡ About Me:
-- 🦒 Я студентка Школы 21 - образовательного проекта от Сбер для разработчиков.
-- 📚 Интересуюсь разработкой на Python, а также машинным обучением и наукой о данных.
+## Python Developer · AI Agents · LLM Engineering
 
-### Programming languages:
-![Python](https://img.shields.io/badge/-Python-1E7775?style=for-the-badge&logo=python&logoColor=2496ED)
-![C++](https://img.shields.io/badge/-C++-1E7775?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![C](https://img.shields.io/badge/-C-1E7775?style=for-the-badge&logo=C&logoColor=6296CC)
-  
-### Databases:
-![Postgres](https://img.shields.io/badge/-PostgreSQL-1E7775?style=for-the-badge&logo=PostgreSQL&logoColor=6296CC)
+### О себе
 
-### Tools:
-![Linux](https://img.shields.io/badge/-Linux-1E7775?style=for-the-badge&logo=linux&logoColor=FCC624) ![Bash](https://img.shields.io/badge/-Bash-1E7775?style=for-the-badge&logo=gnubash&logoColor=#000000)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![Make](https://img.shields.io/badge/Make-%23008FBA.svg?color=red&style=for-the-badge&logo=Make&logoColor=white)
+- 🚀 **Сейчас**: Разрабатываю AI-агентов в **Сбере** (единственный разработчик в команде). Веду полный цикл — от архитектуры до продакшна.
+- 🤖 Создала и запустила двух продуктовых агентов для сервиса лояльности «СберСпасибо» за 2 месяца.
+- 🧠 Специализируюсь на **LangChain, LangGraph, RAG, Prompt Engineering**, интеграции LLM с бизнес-логикой через REST API и Kafka.
+- 🩺 В pet-проекте реализовала Telegram-бота для анализа медицинских документов с локальной LLM (Qwen2) и гибридным OCR.
+- 📊 Имею сильный бэкграунд в аналитике данных: более 60 автоматизированных скриптов, SQL (оконные функции, оптимизация), Python (Pandas, NumPy).
+- 🎓 Выпускница **Школы 21** (Сбер) и Казанского федерального университета.
 
-### Version control:
-![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/-Github-1E7775?style=for-the-badge&logo=github&logoColor=181717) ![Gitlab](https://img.shields.io/badge/-gitlab-1E7775?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
+---
 
-### Devops tools
-![Docker](https://img.shields.io/badge/-docker-1E7775?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Docker](https://img.shields.io/badge/-ansible-1E7775?style=for-the-badge&logo=ansible&logoColor=2496ED)
+### 🔧 Технологии и инструменты
 
-## IDEs/Editors:
-![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+#### Языки и фреймворки
+![Python](https://img.shields.io/badge/-Python-1E7775?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-1E7775?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1E7775?style=for-the-badge&logo=langchain&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-1E7775?style=for-the-badge&logo=postgresql&logoColor=white)
 
+#### LLM и агенты
+- LangChain, LangGraph, RAG, Prompt Engineering
+- Опыт с GigaChat, Qwen2 (Ollama), OpenAI API
+- Векторные БД, инструменты, цепочки вызовов
 
-____
-|[![crazyMrs Github stats](https://github-readme-stats.vercel.app/api?username=crazyMrs&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true&theme=dark)](https://github.com/crazyMrs?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crazyMrs&layout=compact&hide_border=true&hide=jupyter%20notebook,vue,javascript,css,html,roff,scss&theme=dark)](https://github.com/crazyMrs?tab=repositories) |
+#### Базы данных и очереди
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1E7775?style=for-the-badge&logo=postgresql&logoColor=white)
+![GreenPlum](https://img.shields.io/badge/-GreenPlum-1E7775?style=for-the-badge&logo=greenplum&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-1E7775?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-1E7775?style=for-the-badge&logo=redis&logoColor=white)
+
+#### DevOps и инструменты
+![Docker](https://img.shields.io/badge/-Docker-1E7775?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-1E7775?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-1E7775?style=for-the-badge&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-1E7775?style=for-the-badge&logo=gnubash&logoColor=white)
+
+---
+
+### 🚀 Ключевые проекты
+
+| Проект | Описание | Стек |
+|--------|----------|------|
+| **AI-агенты для СберСпасибо** (коммерческий, NDA) | Разработка двух агентов с нуля: один проверяет условия начисления кешбэка, другой маршрутизирует запросы к внутренним системам банка. Запущено в прод за 2 месяца. | Python, LangChain, LangGraph, GigaChat, FastAPI, REST API, Kafka, PostgreSQL |
+| **Medical Telegram Bot** (pet-проект) | Бот для анализа медицинских документов (OCR + LLM). Загружает фото/PDF, распознаёт текст, использует RAG с Wikipedia API, генерирует заключение через локальную LLM Qwen2. | FastAPI, Ollama, EasyOCR, Tesseract, OpenCV, Wikipedia API, Docker, Telegram API |
+| **Автоматизация аналитики в Сбере** (предыдущий опыт) | Более 60 скриптов на Python и SQL для выгрузки KPI филиалов, построения дашбордов, выявления аномалий. | Python, Pandas, NumPy, PostgreSQL, GreenPlum, SQL (оконные функции, CTE) |
+
+> Полный список моих учебных и pet-проектов (включая C++, SQL, алгоритмы) можно посмотреть в [репозиториях GitHub](https://github.com/crazyMrs?tab=repositories).
+
+---
+
+### 📈 Статистика
+
+|[![crazyMrs GitHub stats](https://github-readme-stats.vercel.app/api?username=crazyMrs&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true&theme=dark)](https://github.com/crazyMrs?tab=repositories) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazyMrs&layout=compact&hide_border=true&hide=jupyter notebook,vue,javascript,css,html,roff,scss&theme=dark)](https://github.com/crazyMrs?tab=repositories) |
 |---|---|
-____
 
-## 🚀 Python
+---
 
-| Название проекта | Описание | Основные технологии |
-|------------------|----------|---------------------|
-| Python Bootcamp - [Day_03](https://github.com/crazyMrs/s21code/tree/main/Python/Python%20Bootcamp/Day_03) | Скрипты генерации и чтения сообщений из очереди pubsub Redis и их вывод; создание файла в формате YAML, содержащий задачи для установки пакетов, копирования файлов и выполнения файлов на удаленном сервере | Python, JSON, Redis, Ansible, YAML, logging, argparse, re, random |
-| Python Bootcamp - [Day_04](https://github.com/crazyMrs/s21code/tree/main/Python/Python%20Bootcamp/Day_04) | Скрипты тестирования и генерации инструкций по подключению кабелей к розеткам; создание случайных значений давления, а функция valve управляет изменением шага давления на основе значений; динамическое создание класса Turret с методами и личностными чертами |Python, random, list comprehensions, type, lambda functions, tuple, pytest, yield |
-| Python Bootcamp - [Team_00](https://github.com/crazyMrs/s21code/tree/main/Python/Python%20Bootcamp/Team_00/src) | Скрипты для анализа и визуализации графов статей Википедии. Совместный проект с [celestiv](https://github.com/celestiv) |Python, argparse, logging, json, requests, networkx, bs4, dotenv, pyvis.network, typing, collections |
-| Python Bootcamp - [Day_05](https://github.com/crazyMrs/s21code/tree/main/Python/Python%20Bootcamp/Day_05) | WSGI-сервер, который прослушивает локальный порт 8888 и обрабатывает GET-запросы; Простое клиент-серверное приложение для управления звуковыми файлами; Проект моделирует известную задачу параллельного программирования, называемую задачей "Обедающие философы". |Python, json, wsgiref, urllib, threading, time, random, requests, argparse, os, logging, bs4, flask, werkzeug, mimetypes |
-| Vk test - [first_test_vk.py](https://github.com/crazyMrs/s21code/blob/main/Python/vk%20test/first_test_vk.py) | first_test_vk.py выполняет автоматическую настройку и запуск игры "Goose Goose Duck". Он скачивает файл настроек реестра из Google Drive, импортирует эти настройки в реестр Windows, находит директорию игры на диске и запускает исполняемый файл игры. | Python, os, subprocess, shutil, logging, time, selenium, selenium.webdriver, webdriver_manager |
-| [SmartCalc_Desktop_Python](https://github.com/crazyMrs/s21code/tree/main/Python/SmartCalc_Desktop_Python/src) | SmartCalc v3.0 - это десктопное приложение-калькулятор, разработанное на Python с использованием графического интерфейса PyQt. Приложение предоставляет возможность выполнять сложные арифметические вычисления, поддерживает историю операций и имеет настраиваемый интерфейс. |Python, PyQt5, matplotlib, numpy, pyinstaller, logging |
+### 📫 Контакты
 
-## C++
+- Telegram: [@SashaYakovleva](https://t.me/SashaYakovleva)
+- Email: [satsura_sirena@mail.ru](mailto:satsura_sirena@mail.ru)
+- GitHub: [github.com/crazyMrs](https://github.com/crazyMrs)
 
-| Название проекта | Описание | Основные технологии |
-|------------------|----------|---------------------|
-| [Matrixplus](https://github.com/crazyMrs/s21code/tree/main/CPP/matrixplus) | Этот код реализует класс S21Matrix, предоставляющий функциональность для создания и работы с матрицами, включая создание, копирование, перемещение, операции сложения, вычитания, умножения, транспонирования и нахождения обратной матрицы, а также вычисления определителя и алгебраических дополнений | C++, динамическое выделение памяти, обработка исключений, стандартная библиотека C++, OOP |
-| [SmartCalc_v2](https://github.com/crazyMrs/s21code/tree/main/CPP/SmartCalc_v2) | Реализация калькулятора в рамках модели Model-View-Controller (MVC). Программа выполняет разбор строки с математическим выражением, обрабатывает числа и операторы, выполняет вычисления, используя стеки для хранения чисел и операторов, и возвращает результат, а также реализован кредитный калькулятор. Калькулятор поддерживает базовые арифметические операции, функции тригонометрии, логарифмы и другие математические функции и построение графиков. | C++, STL, MVC, Qt |
-| [Containers](https://github.com/crazyMrs/s21code/tree/main/CPP/containers) | Реализация собственной библиотеки, реализующую основные стандартные контейнерные классы языка С++: list (список), map (словарь), queue (очередь), set (множество), stack (стек) и vector (вектор). Реализация предоставляет весь набор стандартных методов и атрибутов для работы с элементами, проверкой заполненности контейнера и итерирования. Совместный проект с [dorthava](https://github.com/Dorthava) | C++, шаблоны классов, итераторы, структуры данных, исключения, указатели |
-| [3DViewer_v2](https://github.com/crazyMrs/s21code/tree/main/CPP/3DViewer_v2) | Разработка программы для визуализации каркасной модели в трехмерном пространстве. Код программы был организован в соответствии с принципами объектно-ориентированного программирования, с применением паттернов проектирования MVC, а также минимум трех других паттернов. Для разработки графического пользовательского интерфейса была использована библиотека Qt. Программа обеспечивает загрузку каркасной модели из файлов формата obj, ее перемещение, поворот и масштабирование, а также корректную обработку и отображение моделей с различным количеством вершин. Также реализованы дополнительные возможности, такие как настройка типа проекции, отображения ребер и вершин, выбор цвета фона, сохранение изображений в форматах bmp и jpeg, а также запись "скринкастов" в gif-анимацию. Совместный проект с [dorthava](https://github.com/Dorthava) | C++, STL, MVC, Qt, паттерны |
+---
 
-## SQL
-
-| Название проекта | Описание | Основные технологии |
-|------------------|----------|---------------------|
-| [SQL](https://github.com/crazyMrs/s21code/tree/main/SQL) | Реализованы запросы для выполнения операций выбора, вставки, обновления и удаления данных в базе данных. Использование конструкций SQL, таких как операторы выбора, условия WHERE, операторы сортировки, вложенные запросы, JOINs, функции агрегирования, а также DML-операторы INSERT, UPDATE и DELETE и т.д. | SQL, PostgreSQL  |
-
-## Связь
-📫 Если у вас есть вопросы, предложения или просто хотите пообщаться, не стесняйтесь связаться со мной!
-- [Tg](https://t.me/@SashaYakovleva)
-- [Email](mailto:satsura_sirena@mail.ru)
+*Открыта для предложений в области LLM-инженерии и разработки AI-агентов.*
