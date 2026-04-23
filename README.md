@@ -1,4 +1,4 @@
-# 👋 Привет, я Александра Яковлева (@crazyMrs)
+# 👋 Привет, я Александра Яковлева
 
 ## Python Developer · AI Agents · LLM Engineering
 
