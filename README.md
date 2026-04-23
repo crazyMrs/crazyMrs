@@ -52,13 +52,6 @@
 
 ---
 
-### 📈 Статистика
-
-|[![crazyMrs GitHub stats](https://github-readme-stats.vercel.app/api?username=crazyMrs&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true&theme=dark)](https://github.com/crazyMrs?tab=repositories) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazyMrs&layout=compact&hide_border=true&hide=jupyter notebook,vue,javascript,css,html,roff,scss&theme=dark)](https://github.com/crazyMrs?tab=repositories) |
-|---|---|
-
----
-
 ### 📫 Контакты
 
 - Telegram: [@SashaYakovleva](https://t.me/SashaYakovleva)
